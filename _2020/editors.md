@@ -360,7 +360,7 @@ notebooks](https://github.com/lambdalisue/jupyter-vim-binding) 中用 Vim 快捷
 
 # 扩展资料
 
-- `vimtutor` 是一个 Vim 安装时自带的教程
+- `vimtutor` 是一个 Vim 安装时自带的教程（注：如果你使用的是 vim 9.2 或更高的版本，那么可以在正常模式下使用 `:Tutor` 来进入一个更现代化，互动性更强的教程）
 - [Vim Adventures](https://vim-adventures.com/) 是一个学习使用 Vim 的游戏
 - [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
 - [Vim Advent Calendar](https://vimways.org/2019/) 有很多 Vim 小技巧
